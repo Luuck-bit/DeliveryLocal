@@ -1,0 +1,9 @@
+=== USUARIO ===
+codespace
+uid=1000(codespace) gid=1000(codespace) groups=1000(codespace),986(pipx),987(python),988(oryx),989(golang),990(docker),991(sdkman),992(ruby),993(php),994(conda),995(nvm),996(hugo),1001(ssh)
+=== KERNEL ===
+6.8.0-1064-azure
+=== MEMORIA ===
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.5Gi       149Mi        63Mi       6.5Gi       6.3Gi
+Swap:             0B          0B          0B
